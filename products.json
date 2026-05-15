@@ -17,9 +17,9 @@
             {"time": "2025-09-12 14:30", "info": "冷链运输至销售网点"}
         ],
         "conclusion": "生态种植、全程溯源、安全可放心食用",
-        "foodImg": "https://pic.rmb.bdstatic.com/bjh/2403/943382003.jpeg",
-        "originImg": "https://pic.rmb.bdstatic.com/bjh/2403/943382004.jpeg",
-        "testImg": "https://pic.rmb.bdstatic.com/bjh/2403/943382005.jpeg"
+        "foodImg": "https://picsum.photos/id/292/600/300",
+        "originImg": "https://picsum.photos/id/193/300/200",
+        "testImg": "https://picsum.photos/id/1060/300/200"
     },
     {
         "id": "nc002",
@@ -39,9 +39,9 @@
             {"time": "2025-06-08 11:20", "info": "全国物流发货"}
         ],
         "conclusion": "百年古树、天然健康、品质保证",
-        "foodImg": "https://pic.rmb.bdstatic.com/bjh/2403/943382006.jpeg",
-        "originImg": "https://pic.rmb.bdstatic.com/bjh/2403/943382007.jpeg",
-        "testImg": "https://pic.rmb.bdstatic.com/bjh/2403/943382008.jpeg"
+        "foodImg": "https://picsum.photos/id/431/600/300",
+        "originImg": "https://picsum.photos/id/1048/300/200",
+        "testImg": "https://picsum.photos/id/1060/300/200"
     },
     {
         "id": "nc003",
@@ -61,8 +61,8 @@
             {"time": "2025-08-23 10:15", "info": "配送至生鲜门店上架"}
         ],
         "conclusion": "高山生态种植、无添加、全程冷链，新鲜安全可食用",
-        "foodImg": "https://pic.rmb.bdstatic.com/bjh/2403/943382009.jpeg",
-        "originImg": "https://pic.rmb.bdstatic.com/bjh/2403/943382010.jpeg",
-        "testImg": "https://pic.rmb.bdstatic.com/bjh/2403/943382011.jpeg"
+        "foodImg": "https://picsum.photos/id/1080/600/300",
+        "originImg": "https://picsum.photos/id/1038/300/200",
+        "testImg": "https://picsum.photos/id/1060/300/200"
     }
 ]
