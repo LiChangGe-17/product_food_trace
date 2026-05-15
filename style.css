@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "PingFang SC","Microsoft YaHei",sans-serif;
+}
+body {
+    background: #f5f7fa;
+    padding: 15px;
+}
+.header {
+    background: #2d8cf0;
+    color: #fff;
+    text-align: center;
+    padding: 18px;
+    border-radius: 16px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+.card {
+    background: #fff;
+    border-radius: 20px;
+    padding: 24px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+.title {
+    text-align: center;
+    font-size: 22px;
+    color: #2d8cf0;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.list-item {
+    background: #e8f4ff;
+    padding: 18px;
+    border-radius: 16px;
+    text-align: center;
+    margin-bottom: 12px;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.info-row {
+    display: flex;
+    padding: 14px 0;
+    border-bottom: 1px solid #eee;
+}
+.label {
+    width: 110px;
+    color: #666;
+    font-weight: 500;
+}
+.value {
+    flex:1;
+    color:#333;
+    font-weight:500;
+}
+.food-img {
+    width:100%;
+    height:220px;
+    object-fit:cover;
+    border-radius:16px;
+    margin-bottom:16px;
+}
+.img-group {
+    display:flex;
+    gap:10px;
+    margin-bottom:16px;
+}
+.img-group img {
+    width:48%;
+    height:120px;
+    border-radius:12px;
+    object-fit:cover;
+}
+.safe-tag {
+    display:inline-block;
+    padding:6px 14px;
+    background:#e6ffed;
+    color:#00b42a;
+    border-radius:30px;
+    font-size:13px;
+    font-weight:bold;
+    margin-bottom:16px;
+}
+.timeline {
+    border-left:2px solid #2d8cf0;
+    padding-left:24px;
+    margin-top:12px;
+}
+.time-item {
+    position:relative;
+    margin-bottom:16px;
+}
+.time-item::before {
+    content:"";
+    position:absolute;
+    left:-32px;
+    top:6px;
+    width:10px;
+    height:10px;
+    background:#2d8cf0;
+    border-radius:50%;
+}
+.time {
+    font-size:13px;
+    color:#888;
+    margin-bottom:4px;
+}
+.conclusion {
+    background:#e8f4ff;
+    padding:18px;
+    border-radius:16px;
+    margin-top:20px;
+    color:#1967b3;
+    font-weight:500;
+}
+.expire {
+    color:#f7ba1e;
+    font-weight:bold;
+}
+.footer {
+    text-align:center;
+    margin-top:20px;
+    font-size:12px;
+    color:#999;
+}
+.feedback-btn {
+    display:inline-block;
+    margin-top:8px;
+    padding:8px 16px;
+    background:#2d8cf0;
+    color:#fff;
+    border-radius:30px;
+    text-decoration:none;
+    font-size:14px;
+}

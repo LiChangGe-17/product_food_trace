@@ -1,0 +1,68 @@
+[
+    {
+        "id": "nc001",
+        "name": "南川金佛山方竹笋",
+        "productNo": "NC-FZ-20250910",
+        "batch": "20250910-01",
+        "origin": "重庆市南川区金佛山国家级自然保护区",
+        "produceDate": "2025-09-10",
+        "expireDate": "2026-09-10",
+        "testResult": "无农残、无重金属、天然绿色食品，检测合格",
+        "safeLevel": "A级绿色食品",
+        "antiFakeCode": "NCFZ20250910001",
+        "logistics": [
+            {"time": "2025-09-10 06:20", "info": "高山竹林人工采摘"},
+            {"time": "2025-09-10 10:10", "info": "清洗、杀青、杀菌处理"},
+            {"time": "2025-09-11 09:00", "info": "真空包装、质检入库"},
+            {"time": "2025-09-12 14:30", "info": "冷链运输至销售网点"}
+        ],
+        "conclusion": "生态种植、全程溯源、安全可放心食用",
+        "foodImg": "https://pic.rmb.bdstatic.com/bjh/2403/943382003.jpeg",
+        "originImg": "https://pic.rmb.bdstatic.com/bjh/2403/943382004.jpeg",
+        "testImg": "https://pic.rmb.bdstatic.com/bjh/2403/943382005.jpeg"
+    },
+    {
+        "id": "nc002",
+        "name": "南川古树老鹰茶",
+        "productNo": "NC-LY-20250605",
+        "batch": "20250605-02",
+        "origin": "重庆市南川区德隆镇古树茶保护区",
+        "produceDate": "2025-06-05",
+        "expireDate": "2027-06-05",
+        "testResult": "茶多酚达标、无添加、无农残、符合饮用标准",
+        "safeLevel": "有机食品",
+        "antiFakeCode": "NCLY20250605002",
+        "logistics": [
+            {"time": "2025-06-05 07:10", "info": "古树茶鲜叶人工采摘"},
+            {"time": "2025-06-05 16:40", "info": "手工炒制、分拣、干燥"},
+            {"time": "2025-06-06 08:50", "info": "包装、质检、赋码"},
+            {"time": "2025-06-08 11:20", "info": "全国物流发货"}
+        ],
+        "conclusion": "百年古树、天然健康、品质保证",
+        "foodImg": "https://pic.rmb.bdstatic.com/bjh/2403/943382006.jpeg",
+        "originImg": "https://pic.rmb.bdstatic.com/bjh/2403/943382007.jpeg",
+        "testImg": "https://pic.rmb.bdstatic.com/bjh/2403/943382008.jpeg"
+    },
+    {
+        "id": "nc003",
+        "name": "南川金佛山红心猕猴桃",
+        "productNo": "NC-MHT-20250820",
+        "batch": "20250820-03",
+        "origin": "重庆市南川区大观镇高山猕猴桃基地",
+        "produceDate": "2025-08-20",
+        "expireDate": "2025-09-20",
+        "testResult": "无农残、无催熟剂、重金属未检出，检测合格",
+        "safeLevel": "绿色食品",
+        "antiFakeCode": "NCMHT20250820003",
+        "logistics": [
+            {"time": "2025-08-20 07:30", "info": "高山基地人工采摘"},
+            {"time": "2025-08-20 11:50", "info": "清洗、分级、包装、农残检测"},
+            {"time": "2025-08-21 08:40", "info": "冷链保鲜运输至仓库"},
+            {"time": "2025-08-23 10:15", "info": "配送至生鲜门店上架"}
+        ],
+        "conclusion": "高山生态种植、无添加、全程冷链，新鲜安全可食用",
+        "foodImg": "https://pic.rmb.bdstatic.com/bjh/2403/943382009.jpeg",
+        "originImg": "https://pic.rmb.bdstatic.com/bjh/2403/943382010.jpeg",
+        "testImg": "https://pic.rmb.bdstatic.com/bjh/2403/943382011.jpeg"
+    }
+]
